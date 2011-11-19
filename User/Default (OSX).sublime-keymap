@@ -1,2 +1,13 @@
 [
+	{ "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["super+ctrl+n"], "command": "new_file" },
+
+	{ "keys": ["ctrl+s"], "command": "save" },
+
+	{ "keys": ["ctrl+shift+s"], "command": "prompt_save_as" },
+	{ "keys": ["ctrl+w"], "command": "close" },
+    { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/Delete line.sublime-macro" }},
+	{ "keys": ["ctrl+n"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+n"], "command": "prev_view" },
+	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": { "setting": "word_wrap"} }
 ]
