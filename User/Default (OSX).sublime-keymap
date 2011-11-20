@@ -9,5 +9,7 @@
     { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/Delete line.sublime-macro" }},
 	{ "keys": ["ctrl+n"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+n"], "command": "prev_view" },
-	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": { "setting": "word_wrap"} }
+	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": { "setting": "word_wrap"} },
+	{ "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} }
+
 ]
