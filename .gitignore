@@ -47,75 +47,48 @@ RestructuredText/*
 Theme - Default/*
 Package Control/*
 User/Package Control.sublime-settings
-
 Color Scheme - Default/zenburn.tmTheme.cache
-
 Color Scheme - Default/zenburn.tmTheme
-
 Color Scheme - Default/iPlastic.tmTheme
-
 Color Scheme - Default/Zenburnesque.tmTheme.cache
-
 Color Scheme - Default/Zenburnesque.tmTheme
-
 Color Scheme - Default/Twilight.tmTheme.cache
-
 Color Scheme - Default/Twilight.tmTheme
-
 Color Scheme - Default/Tomorrow-Night.tmTheme.cache
-
 Color Scheme - Default/Tomorrow-Night.tmTheme
-
 Color Scheme - Default/Sunburst.tmTheme
-
 Color Scheme - Default/SpaceCadet.tmTheme
-
 Color Scheme - Default/Solarized (Light).tmTheme
-
 Color Scheme - Default/Solarized (Dark).tmTheme
-
 Color Scheme - Default/Slush & Poppies.tmTheme
-
 Color Scheme - Default/Pastels on Dark.tmTheme
-
 Color Scheme - Default/PLEAC.tmTheme.cache
-
 Color Scheme - Default/Monokai.tmTheme.cache
-
 Color Scheme - Default/Monokai.tmTheme
-
 Color Scheme - Default/Monokai Bright.tmTheme
-
 Color Scheme - Default/MagicWB (Amiga).tmTheme
-
 Color Scheme - Default/Mac Classic.tmTheme
-
 Color Scheme - Default/LAZY.tmTheme
-
 Color Scheme - Default/IR_Black.tmTheme.cache
-
 Color Scheme - Default/IDLE.tmTheme
-
 Color Scheme - Default/Espresso Libre.tmTheme.cache
-
 Color Scheme - Default/Espresso Libre.tmTheme
-
 Color Scheme - Default/Eiffel.tmTheme
-
 Color Scheme - Default/Dawn.tmTheme
-
 Color Scheme - Default/Blackboard.tmTheme
-
 Color Scheme - Default/Cobalt.tmTheme
-
 Color Scheme - Default/Amy.tmTheme.cache
-
 Color Scheme - Default/Amy.tmTheme
-
 Color Scheme - Default/All Hallow's Eve.tmTheme
-
 .gitignore~
-
 .project
-
 .DS_Store
+SublimeCodeIntel/*
+SublimeTagmatcher/*
+jQuery Snippets pack/*
+TrailingSpaces/*
+SideBarEnhancements/*
+Indent XML/*
+HTML5/*
+BracketHighlighter/*
+Clipboard History/*
