@@ -1,6 +1,7 @@
 [
 	{ "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
 	{ "keys": ["super+ctrl+n"], "command": "new_file" },
+	{ "keys": ["ctrl+y"], "command": "redo" },
 
 	{ "keys": ["ctrl+s"], "command": "save" },
 
@@ -10,6 +11,9 @@
 	{ "keys": ["ctrl+n"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+n"], "command": "prev_view" },
 	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": { "setting": "word_wrap"} },
-	{ "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} }
+	{ "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
 
+	{ "keys": ["ctrl+g"], "command": "find_next" },
+	{ "keys": ["ctrl+shift+g"], "command": "find_prev" },
+	{ "keys": ["ctrl+m"], "command": "toggle_view" }
 ]
