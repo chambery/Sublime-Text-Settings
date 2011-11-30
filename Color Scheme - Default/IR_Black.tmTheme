@@ -441,13 +441,39 @@
 			<key>name</key>
 			<string>✘ Meta.tag.«all»</string>
 			<key>scope</key>
-			<string>meta.tag, meta.tag entity</string>
+			<string>meta.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#6F7D8D</string>
+				<string>#525C69</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Meta.tag.«all»</string>
+			<key>scope</key>
+			<string>meta.tag punctuation.separator.namespace.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#525C69</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Meta.tag.«all»</string>
+			<key>scope</key>
+			<string>meta.tag entity</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#748ca7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -460,7 +486,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#96CBFE</string>
+				<string>#748ca7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -473,7 +499,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFD7B1</string>
+				<string>#748ca7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +512,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E18964</string>
+				<string>#525C69</string>
 			</dict>
 		</dict>
 		<dict>
