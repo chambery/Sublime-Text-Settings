@@ -444,8 +444,8 @@
 			<string>meta.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<!-- key>fontStyle</key>
+				<string>bold</string -->
 				<key>foreground</key>
 				<string>#525C69</string>
 			</dict>
@@ -457,8 +457,8 @@
 			<string>meta.tag punctuation.separator.namespace.xml</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<!-- key>fontStyle</key>
+				<string>bold</string -->
 				<key>foreground</key>
 				<string>#525C69</string>
 			</dict>
@@ -470,8 +470,8 @@
 			<string>meta.tag entity</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<!-- key>fontStyle</key>
+				<string>bold</string -->
 				<key>foreground</key>
 				<string>#899db4</string>
 			</dict>
