@@ -478,6 +478,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>html tag punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<!-- key>fontStyle</key>
+				<string></string -->
+				<key>foreground</key>
+				<string>#525C69</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>✘ Meta.tag.inline</string>
 			<key>scope</key>
 			<string>source entity.name.tag, source entity.other.attribute-name, meta.tag.inline, meta.tag.inline entity</string>
