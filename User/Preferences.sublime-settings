@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/IR_Black.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"trim_trailing_white_space_on_save": true
+}
