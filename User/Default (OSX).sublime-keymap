@@ -52,5 +52,14 @@
 	{ "keys": ["ctrl+alt+shift+;"], "command": "move_to", "args": {"to": "eol", "extend": true} },
 
 	{ "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+alt+/"], "command": "toggle_comment", "args": { "block": true } }
+	{ "keys": ["ctrl+alt+/"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+e", "ctrl+o"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+
+	{ "keys": ["ctrl+alt+space"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
+	{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+		"context":
+		[
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	}
 ]
