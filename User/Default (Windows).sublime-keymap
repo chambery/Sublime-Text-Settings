@@ -42,5 +42,17 @@
 
 	{ "keys": ["ctrl+alt+n"], "command": "new_file" },
 
-	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": {"setting": "word_wrap"} }
+	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+
+	{ "keys": ["ctrl+shift+f"], "command": "indentxml" },
+
+	{ "keys": ["ctrl+e", "ctrl+o"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+
+	{ "keys": ["ctrl+alt+space"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
+	{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+		"context":
+		[
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	}
 ]
