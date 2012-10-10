@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<div style="padding-right:2px;font-weight:bold;padding-bottom:2px;padding-top:2px">&nbsp;&nbsp;<a name="${1/([a-zA-Z]+)(?:(\s+?)|\b)/?1:\L$1(?2:)\E/g}"></a>$0${1:HEADER}</div>
+<div>&nbsp;</div>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_h3</tabTrigger>
+	
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>

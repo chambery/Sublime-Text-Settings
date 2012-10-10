@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div style="border:1px solid DarkGrey;background-color:LightYellow;margin-left:auto;margin-right:auto;width:80em;padding:15px">
+    <div>&nbsp;</div>
+    <div><center>$0</center></div>
+    <div>&nbsp;</div>            
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_note</tabTrigger>
+	
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>

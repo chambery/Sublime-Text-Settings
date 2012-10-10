@@ -1,5 +1,4 @@
 {
-	"path": "/usr/local/bin/",
-	"cmd": ["jade", "$file", "--out", "../web/"],
-	"selector": "source.jade"
+   "cmd": ["cmd", "/c", "jade", "$file"],
+   "selector": "source.jade"
 }

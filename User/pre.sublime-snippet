@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<pre style="padding-right:10px;padding-left:10px;padding-bottom:5px;margin-left:30px;width:75em;color:wheat;padding-top:5px;font-family:Lucida Console;background-color:#404040"><font color="#dcdccc">$0${2:<span style="float:right"></span>}$0$1</font>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_pre</tabTrigger>
+	
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>

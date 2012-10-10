@@ -1,5 +1,5 @@
 [
-  { "keys": ["ctrl+j"], "command": "move", "args": {"by": "characters", "forward": false} },
+	{ "keys": ["ctrl+j"], "command": "move", "args": {"by": "characters", "forward": false} },
 	{ "keys": ["ctrl+l"], "command": "move", "args": {"by": "characters", "forward": true} },
 	{ "keys": ["ctrl+i"], "command": "move", "args": {"by": "lines", "forward": false} },
 	{ "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": true} },
@@ -44,15 +44,15 @@
 
 	{ "keys": ["ctrl+shift+."], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
 
-	{ "keys": ["ctrl+shift+f"], "command": "indentxml" },
+	{ "keys": ["ctrl+shift+f"], "command": "tidy_xml" },
 
-	{ "keys": ["ctrl+e", "ctrl+o"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+	{ "keys": ["ctrl+e", "ctrl+o"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } }
 
-	{ "keys": ["ctrl+alt+space"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
-	{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
-		"context":
-		[
-			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
-		]
-	}
+	// { "keys": ["ctrl+alt+space"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
+	// { "keys": ["ctrl+alt+space"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+	// 	"context":
+	// 	[
+	// 		{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+	// 	]
+	// }
 ]

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<td style="border-bottom: 1px solid #ccc;padding: 6px 8px;border-right: 1px solid LightGrey;border-left: 1px solid LightGrey;">$0</td>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_td</tabTrigger>
+	
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>

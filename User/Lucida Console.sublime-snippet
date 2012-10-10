@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<font face="Lucida Console">$0</font>]]></content>
+	<tabTrigger>lc</tabTrigger>
+	<scope>text.html</scope> 
+</snippet>
